@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "super kimjihee",
-    "build": "babel src/js -w -d dist/js"
+    "build": "babel study -w -d dist"
   },
   "author": "jiheekim",
   "license": "ISC",
