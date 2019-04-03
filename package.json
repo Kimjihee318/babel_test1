@@ -1,0 +1,24 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "testing server & js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "super kimjihee",
+    "build": "babel src/js -w -d dist/js"
+  },
+  "author": "jiheekim",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "express": "^4.16.4",
+    "node-pre-gyp": "^0.12.0",
+    "npm": "^6.9.0",
+    "supervisor": "^0.12.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3"
+  }
+}
